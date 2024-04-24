@@ -1,4 +1,4 @@
-## Compétences acquises avec ce projet :
+## *Compétences acquises avec ce projet :*
 - Mener une veille technologique
 - Concevoir une solution technique pour un client
 - Gérer un projet avec les méthodologies agiles
